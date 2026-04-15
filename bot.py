@@ -9,7 +9,7 @@ import requests
 # =========================
 TOKEN = os.getenv("TOKEN")
 API_KEY = os.getenv("API_KEY")
-BASE_URL = "BASE_URL = "http://google.com""
+BASE_URL = "http://google.com"
 
 intents = discord.Intents.default()
 intents.message_content = True

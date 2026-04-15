@@ -6,8 +6,8 @@ import requests
 # =========================
 # CONFIG
 # =========================
-TOKEN = os.getenv"TOKEN"
-API_KEY = os.getenv"API_KEY"
+TOKEN = os.getenv("TOKEN")
+API_KEY = os.getenv("API_KEY")
 BASE_URL = "http://bypass.anikxcheats.xyz"
 
 intents = discord.Intents.default()
